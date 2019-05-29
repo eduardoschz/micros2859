@@ -28,7 +28,7 @@ public class Blue extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_blue);
         imgBack = (ImageView) findViewById(R.id.imgBack);
-        btnOn = (Button) findViewById(R.id.btnOn);
+        btnOn = (Button) findViewById(R.id.btnInternetOn);
         btnOff = (Button) findViewById(R.id.btnOff);
 
         imgBack.setOnClickListener(new View.OnClickListener() {

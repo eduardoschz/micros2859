@@ -1,34 +1,42 @@
 {
   "project_info": {
-    "project_number": "423654140499",
-    "firebase_url": "https://sistemariego-d4cd5.firebaseio.com",
-    "project_id": "sistemariego-d4cd5",
-    "storage_bucket": "sistemariego-d4cd5.appspot.com"
+    "project_number": "791163044131",
+    "firebase_url": "https://si-micros-control.firebaseio.com",
+    "project_id": "si-micros-control",
+    "storage_bucket": "si-micros-control.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:423654140499:android:cd7352be862c8050",
+        "mobilesdk_app_id": "1:791163044131:android:cd7352be862c8050",
         "android_client_info": {
           "package_name": "com.example.riego"
         }
       },
       "oauth_client": [
         {
-          "client_id": "423654140499-usqtf836ubf2frgbiptgainvvviuk9mc.apps.googleusercontent.com",
+          "client_id": "791163044131-5a8nmuel4m3ag2lnr4u65v641sjmqv27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.riego",
+            "certificate_hash": "66080b16788acbf1849dcd9bf567462ecacf6bbb"
+          }
+        },
+        {
+          "client_id": "791163044131-e73f4cn44e5mof7veem0ldl2bpkhro91.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBANPaW0JaZGn2RArcr1R54upWrqR1_9p8"
+          "current_key": "AIzaSyAojZvzAD_Guq5FoEf7uu0A1pE41st4y34"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "423654140499-usqtf836ubf2frgbiptgainvvviuk9mc.apps.googleusercontent.com",
+              "client_id": "791163044131-e73f4cn44e5mof7veem0ldl2bpkhro91.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

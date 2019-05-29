@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         btnInternet = (Button) findViewById(R.id.btnInternet);
-        btnBlue = (Button) findViewById(R.id.btnBluetooth);
+       // btnBlue = (Button) findViewById(R.id.btnBluetooth);
 
         btnInternet.setOnClickListener(new View.OnClickListener() {
             @Override

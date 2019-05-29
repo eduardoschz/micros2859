@@ -21,7 +21,7 @@
         app:srcCompat="?attr/actionModeCloseDrawable" />
 
     <Button
-        android:id="@+id/btnOn"
+        android:id="@+id/btnInternetOn"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -50,7 +50,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnOn" />
+        app:layout_constraintTop_toBottomOf="@+id/btnInternetOn" />
 
     <TextView
         android:id="@+id/txtDatos"

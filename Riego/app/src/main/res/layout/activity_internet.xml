@@ -23,11 +23,11 @@
         app:srcCompat="?attr/actionModeCloseDrawable" />
 
     <Button
-        android:id="@+id/btnOn"
+        android:id="@+id/btnInternetOn"
         android:layout_width="0dp"
         android:layout_height="48dp"
         android:layout_marginStart="8dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="128dp"
         android:layout_marginEnd="8dp"
         android:background="@android:color/holo_green_light"
         android:text="Encender"
@@ -39,7 +39,7 @@
         app:layout_constraintTop_toBottomOf="@+id/txtDatos" />
 
     <Button
-        android:id="@+id/btnOff"
+        android:id="@+id/btnInternetOff"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"
@@ -52,12 +52,12 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/btnOn" />
+        app:layout_constraintTop_toBottomOf="@+id/btnInternetOn" />
 
     <EditText
         android:id="@+id/txtDatos"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="102dp"
         android:layout_marginStart="8dp"
         android:layout_marginTop="232dp"
         android:layout_marginEnd="8dp"
