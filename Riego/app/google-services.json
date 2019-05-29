@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "423654140499",
+    "firebase_url": "https://sistemariego-d4cd5.firebaseio.com",
+    "project_id": "sistemariego-d4cd5",
+    "storage_bucket": "sistemariego-d4cd5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423654140499:android:cd7352be862c8050",
+        "android_client_info": {
+          "package_name": "com.example.riego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423654140499-usqtf836ubf2frgbiptgainvvviuk9mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBANPaW0JaZGn2RArcr1R54upWrqR1_9p8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423654140499-usqtf836ubf2frgbiptgainvvviuk9mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
